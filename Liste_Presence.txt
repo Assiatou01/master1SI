@@ -2,3 +2,5 @@ Master 1 SSI et ISI, Vendredi le 28/02/2025
 Bienvenue à ESMT
 Bienvenu dans le cours de Git
 Dernier cours de Git le 08/03/2025:last last
+Bonsoir à tous 
+Bienvenu dans le cours de Git
